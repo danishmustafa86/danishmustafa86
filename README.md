@@ -35,30 +35,19 @@
 
 <!-- <img align="right" alt="" style="margin-top: 30px;" src="./Images/SMIT-Click.jpeg" width="58%"/> -->
 
-| TECH SESSIONS @SMIT                                                                                         |
-| :---------------------------------------------------------------------------------------------------------- |
-| [Full_Stack_Development_1.0](https://github.com/Ahmadjajja/SMIT-Web-and-Mobile-Batch7) (Current)            |
-| [GenAI-Chatbot 1.0](https://github.com/Ahmadjajja/AI-Chatbot) (Current)                                     |
-| [Backend_Development_1.0](https://github.com/Ahmadjajja/Backend_Development.git) (Completed)                |
-| [Web Designing Bootcamp 1.0](https://github.com/Ahmadjajja/Web_Designing_Crash_Course_A) (Completed)        |
-| [Web Designing Bootcamp 2.0](https://github.com/Ahmadjajja/Web_Designing_Crash_Course_B) (Completed)        |
-| [Frontend_Web_Development_1.0](https://github.com/Ahmadjajja/SMIT-WMA-6-A-E) (Completed)                    |
-| [Frontend_Mobile_Development_1.0](https://github.com/Ahmadjajja/Mobile_Application_Development) (Completed) |
-| **TECH SESSIONS @iCodeGuru**                                                                                    |
-| [DSA(LeetCode)_Volunteer_Teaching](https://github.com/Ahmadjajja/LeetCode_Volunteer_Teaching) (Current)     |
-| [ML_and_its-privacy-implications](https://github.com/Ahmadjajja/Machine-Learning_and_its-privacy-implications) (Current)             |
+           |
 
-- Co-Founder & Dev Lead @[EcoFactor](https://ecofactorsite.netlify.app/).
-- Solved 300+ Data Structures & Algorithms problems on **[Leetcode](https://leetcode.com/ahmadjajja86/)**.
-- **@[SMIT](https://www.linkedin.com/feed/update/urn:li:activity:7094647856233365504/)**: Trained 1000+ students to learn programming and software engineering skills.
-- If you want to see how I provide training to my students @SMIT, have a look → **[**👀**](https://drive.google.com/file/d/1VoW3VGwb0dlfR0XMFlPWOvK1b47_CcIK/view)**
-- **@[iCodeGuru](https://icodeguru.weebly.com/)**: Offers volunteer teaching in Python and DSA, emphasizing LeetCode.
-- **@lablab.ai**: [Participated](https://lablab.ai/u/@ahmad_jajja288) in multiple AI International Hackathons with a global team of six.
-- **@lablab.ai**: [Winner](https://www.linkedin.com/feed/update/urn:li:activity:7176624410651504641/) of an International Hackathon(Unhallucinate Challange).
-- **@Stanford University**: [Selected](https://www.linkedin.com/feed/update/urn:li:activity:7186385467846639620/) as a Section Leader to teach Python to 100+ international students, then **[promoted to Section Leader Mentor](https://www.linkedin.com/posts/ahmad-jajja_stanfordabrcodeabrinabrplaceabrlearnings-activity-7195142429073633281-zNhV/?utm_source=share&utm_medium=member_desktop)** to provide one-on-one support.
-- **@Harvard University(CS50x_PuzzleDay_Winner)**: Our team [won 1st place](https://www.linkedin.com/feed/update/urn:li:activity:7184212040717131778/) at CS50x Puzzle Day 2024 by solving 9/9 complex
+- @[iCodeGuru] Solved 200+ Data Structures & Algorithms problems on **[Leetcode](https://leetcode.com/u/danishmustafa86/)**.
+-  @[iCodeGuru](https://www.linkedin.com/company/icode-guru/mycompany/) Providing training on Data Structures and Algorithms session
+-  @[iCodeGuru](https://www.linkedin.com/company/icode-guru/mycompany/) Providing training on Introduction to Artificial Intelligence 
+- If you want to see how I provide training to my students have a look → **[**👀**](https://docs.google.com/spreadsheets/d/1860Cq-mbY6hRbQTr93lJ2_7U9c-qo3A3GOuFupNd1UY/edit?gid=0#gid=0)**
+- @[Harvard University](https://www.linkedin.com/posts/danishmustafa86_cs50xabrpuzzleabrdayabr2024-activity-7185718867233513472-dUre?utm_source=share&utm_medium=member_desktop): Our team got 2nd position by  solving 9/8 complex puzzles.
+- **@[iCodeGuru](https://icodeguru.weebly.com/)**: Offers volunteer teaching in AI and DSA, emphasizing LeetCode.
+- **@Stanford University**: [Selected] as a Senionr student **(https://www.linkedin.com/posts/danishmustafa86_stanfordabrcodeabrinabrplace-stanford-stanforduniversity-activity-7207801096927375360-O9N1?utm_source=share&utm_medium=member_desktop)** .
+- **@Harvard University(CS50x_PuzzleDay_Winner)**: Our team [won 2nd place](https://www.linkedin.com/posts/danishmustafa86_cs50xabrpuzzleabrdayabr2024-activity-7185718867233513472-dUre?utm_source=share&utm_medium=member_desktop) at CS50x Puzzle Day 2024 by solving 9/8 complex
 puzzles.
-<!-- - 📫 How to reach me **ahmadjajja86@gmail.com** -->
+- **@[Typing Speed](https://www.linkedin.com/posts/danishmustafa86_assalamualaikum-everyone-guess-what-ive-activity-7211720239103799296-ot6H?utm_source=share&utm_medium=member_desktop)** More than 75wpms.
+<!-- - 📫 How to reach me **danishmustafa86@gmail.com** -->
 
 <h2><i>💻 Tech Stack and Tools</i></h2>
 
