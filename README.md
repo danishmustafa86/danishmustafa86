@@ -15,20 +15,19 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hello, I'm [Your Name] 👋
+# Hello, I'm [DANISH MUSTAFA] 👋
 
 ![Profile views](https://gpvc.arturio.dev/your-username)
 
 Welcome to my GitHub profile! I'm a [Your Profession or Field of Interest] with a passion for [Your Interests].
 
 ## 🚀 About Me
-- 🔭 I’m currently working on [Your Current Project]
-- 🌱 I’m currently learning [Your Current Learning Focus]
+- 🔭 I’m currently Training DSA session on iCodeGuru.
+- 🌱 I’m currently learning [Machine Learning]
 - 👯 I’m looking to collaborate on [Your Collaboration Interest]
-- 💬 Ask me about [Your Topics of Expertise]
-- 📫 How to reach me: [Your Contact Information]
-- 😄 Pronouns: [Your Pronouns]
-- ⚡ Fun fact: [A Fun Fact About You]
+- 💬 Ask me about [DSA, Web Development, Web Designing,]
+- 📫 How to reach me: [https://www.linkedin.com/in/danishmustafa86/]
+
 
 ## 🛠️ Languages and Tools
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
