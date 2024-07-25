@@ -50,8 +50,8 @@ puzzles.
 <!-- - 📫 How to reach me **danishmustafa86@gmail.com** -->
 
 <h2><i>💻 Tech Stack and Tools</i></h2>
-
-<table width="100">
+<!--
+ <table width="100">
 <tr>
     <td align='center' width="190">
         <img src="./Images/JS.jpg" alt="Javascript" width="150px" height="100px">
@@ -160,7 +160,7 @@ puzzles.
 
 <br />
 <br />
-
+-->
 ## Connect with Me 🤝
 
 <p align="center">
