@@ -3,7 +3,7 @@
 <!--  # Software Engineer & Tech Trainer 🖥️.  -->
 <h1> Software Engineer & Tech Trainer 🖥️. <a href="https://hits.sh/github.com/Ahmadjajja/"><img alt="Hits" src="https://hits.sh/github.com/Ahmadjajja.svg?label=PROFILE%20VIEWS&extraCount=101000&color=e51c1c"/></a></h1>
 
-# Top [![committers.top badge](https://user-badge.committers.top/pakistan/Ahmadjajja.svg)](https://user-badge.committers.top/pakistan/Ahmadjajja)th Pakistani Github Contributor.
+
 
 <h2><i>Empowering Minds Through Code.</i></h2>
 <!-- <div style="width: 80%; margin: 0 auto">
@@ -12,13 +12,13 @@
 
 
 
-<!-- # Hi there, I'm Ahmad Jajja 👋. -->
+<!-- # Hi there, I'm DANISH MUSTAFA 👋. -->
 
 
 
 <!-- ##  -->
 
-<!-- ## Learn with Ahmad Jajja :mailbox_with_mail: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Wanna see glimpses of how I train? Click below ⬇️ -->
+<!-- ## Learn with DANISH MUSTAFA :mailbox_with_mail: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Wanna see glimpses of how I train? Click below ⬇️ -->
 <!-- <div >
   <b style="display: inline-block; margin-right: 20px; font-size: 2.5em; ">Learn with Ahmad Jajja 📬</b>
   
@@ -37,11 +37,11 @@
 
            |
 
-- @[iCodeGuru] Solved 200+ Data Structures & Algorithms problems on **[Leetcode](https://leetcode.com/u/danishmustafa86/)**.
+- @ **[LeetCode](https://leetcode.com/u/danishmustafa86/)** Solved 200+ Data Structures & Algorithms problems on **[Leetcode](https://leetcode.com/u/danishmustafa86/)**.
 -  @[iCodeGuru](https://www.linkedin.com/company/icode-guru/mycompany/) Providing training on Data Structures and Algorithms session
 -  @[iCodeGuru](https://www.linkedin.com/company/icode-guru/mycompany/) Providing training on Introduction to Artificial Intelligence 
 - If you want to see how I provide training to my students have a look → **[**👀**](https://docs.google.com/spreadsheets/d/1860Cq-mbY6hRbQTr93lJ2_7U9c-qo3A3GOuFupNd1UY/edit?gid=0#gid=0)**
-- @[Harvard University](https://www.linkedin.com/posts/danishmustafa86_cs50xabrpuzzleabrdayabr2024-activity-7185718867233513472-dUre?utm_source=share&utm_medium=member_desktop): Our team got 2nd position by  solving 9/8 complex puzzles.
+- @ **@[Harvard University](https://www.linkedin.com/posts/danishmustafa86_cs50xabrpuzzleabrdayabr2024-activity-7185718867233513472-dUre?utm_source=share&utm_medium=member_desktop)**: Our team got 2nd position by  solving 9/8 complex puzzles.
 - **@[iCodeGuru](https://icodeguru.weebly.com/)**: Offers volunteer teaching in AI and DSA, emphasizing LeetCode.
 - **@Stanford University**: [Selected] as a Senionr student **(https://www.linkedin.com/posts/danishmustafa86_stanfordabrcodeabrinabrplace-stanford-stanforduniversity-activity-7207801096927375360-O9N1?utm_source=share&utm_medium=member_desktop)** .
 - **@Harvard University(CS50x_PuzzleDay_Winner)**: Our team [won 2nd place](https://www.linkedin.com/posts/danishmustafa86_cs50xabrpuzzleabrdayabr2024-activity-7185718867233513472-dUre?utm_source=share&utm_medium=member_desktop) at CS50x Puzzle Day 2024 by solving 9/8 complex
