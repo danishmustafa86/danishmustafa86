@@ -147,7 +147,7 @@ puzzles.
 <a href="https://linkedin.com/in/danishmustafa86" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="danishmustafa86" height="40" width="100" /></a>	
 <a href="https://fb.com/danish.jajja.56" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="danishmustafa86" height="40" width="100"  /></a>	
 <a href="https://www.leetcode.com/danishmustafa86" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="danishmustafa86" height="40" width="100" /></a>	
-<a href="mailto:danishdev555@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/--D14836?style=flat&logo=Gmail&logoColor=white" alt="danishdev555" height="40" width="100" /></a>
+<a href="mailto:danishdev555@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/-mail-D14836?style=flat&logo=Gmail&logoColor=white" alt="danishdev555" height="40" width="100" /></a>
 </p>
 
   <h2><i>⚙️ GitHub Analytics</i></h2>
