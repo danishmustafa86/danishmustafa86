@@ -57,7 +57,7 @@ puzzles.
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="150px" height="100px"/> 
     </td>
     <td align='center' width="190">
-        <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="150px" height="40"/>
+        <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="200px" height="60"/>
     </td>
      <td align='center' width="190">
          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="150px" height="100px"/>
