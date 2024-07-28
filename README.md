@@ -92,7 +92,6 @@ puzzles.
     </td>
     <td align='center'>
        <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="150px" height="100px"/> 
-    
     </td>
     <td align='center'>
          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="150px" height="100px"/>
@@ -138,8 +137,6 @@ puzzles.
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="150px" height="100px"/> 
     </td>
 </tr>
-
-
 </table>
 
 <br />
