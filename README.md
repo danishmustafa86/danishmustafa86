@@ -89,8 +89,6 @@ puzzles.
 <tr>
     <td align='center'>
         <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="200px" height="60"/>
-
-     
     </td>
     <td align='center'>
        <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="150px" height="100px"/> 
@@ -137,7 +135,6 @@ puzzles.
         <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="150px" height="100px"/> 
     </td>
     <td align='center'>
-	    
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="150px" height="100px"/> 
     </td>
 </tr>
