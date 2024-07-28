@@ -88,7 +88,7 @@ puzzles.
 </tr>
 <tr>
     <td align='center'>
-        <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="200px" height="60"/>
+        <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="250px" height="90"/>
     </td>
     <td align='center'>
        <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="150px" height="100px"/> 
