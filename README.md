@@ -77,7 +77,7 @@ puzzles.
          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="150px" height="100px"/>
     </td>
     <td align='center'>
-         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="150px" height="100px"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="150px" height="100px"/>
     </td>
     <td align='center'>
         <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="150px" height="100px"/>
@@ -111,7 +111,7 @@ puzzles.
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="150px" height="100px"/>
     </td>
     <td align='center'>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="150px" height="100px"/>
+         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="150px" height="100px"/>
     </td>
     <td align='center'>
        <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="150px" height="100px"/>
