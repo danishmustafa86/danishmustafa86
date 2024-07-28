@@ -54,13 +54,13 @@ puzzles.
  <table width="100">
 <tr>
     <td align='center' width="190">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="150px" height="100px"/> 
+         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="150px" height="100px"/>
     </td>
     <td align='center' width="190">
-        <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="200px" height="60"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="150px" height="100px"/>
     </td>
      <td align='center' width="190">
-         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="150px" height="100px"/>
+       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="150px" height="100px"/> </a> 
     </td>
      <td align='center' width="190">
          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="150px" height="100px"/>
@@ -71,7 +71,7 @@ puzzles.
 </tr>
 <tr>
     <td align='center'>
-       <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="150px" height="100px"/> 
+         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="150px" height="100px"/>
     </td>
     <td align='center'>
          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="150px" height="100px"/>
@@ -88,10 +88,13 @@ puzzles.
 </tr>
 <tr>
     <td align='center'>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="150px" height="100px"/>
+        <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="200px" height="60"/>
+
+     
     </td>
     <td align='center'>
-       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="150px" height="100px"/> </a> 
+       <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="150px" height="100px"/> 
+    
     </td>
     <td align='center'>
          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="150px" height="100px"/>
@@ -111,13 +114,13 @@ puzzles.
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="150px" height="100px"/>
     </td>
     <td align='center'>
-        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="150px" height="100px"/
-    </td>
-    <td align='center'>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="150px" height="100px"/>
     </td>
     <td align='center'>
        <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="150px" height="100px"/>
+    </td>
+    <td align='center'>
+        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="150px" height="100px"/
     </td>
 </tr>
 <tr>
@@ -134,7 +137,8 @@ puzzles.
         <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="150px" height="100px"/> 
     </td>
     <td align='center'>
-         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="150px" height="100px"/>
+	    
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="150px" height="100px"/> 
     </td>
 </tr>
 
