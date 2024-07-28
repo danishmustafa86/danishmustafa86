@@ -150,6 +150,12 @@ puzzles.
 <a href="https://fb.com/danish.jajja.56" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="danish.jajja.56" height="40" width="100" /></a>	
 <!-- <a href="mailto:ahmadjajja86@gmail.com"><img src="https://img.shields.io/badge/-ahmadjajja86@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a> -->
 <a href="https://www.leetcode.com/danishmustafa86" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="danishmustafa86" height="40" width="100" /></a>	
+<a href="mailto:ahmadjajja86@gmail.com"><img src="https://img.shields.io/badge/-ahmadjajja86@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+</p>
+<p align="center">
+<!-- <a href="https://www.ahmad-jajja.com"><img src="https://img.shields.io/badge/-ahmadjajja.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://linkedin.com/in/ahmad-jajja"><img src="https://img.shields.io/badge/-Ahmad%20Jajja-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a> -->
+<a href="mailto:ahmadjajja86@gmail.com"><img src="https://img.shields.io/badge/-ahmadjajja86@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
 
   <h2><i>⚙️ GitHub Analytics</i></h2>
