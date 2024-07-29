@@ -39,16 +39,14 @@ puzzles.
     <td align='center'>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="150px" height="100px"/>
     </td>
-</tr>
-<tr>
     <td align='center'>
        <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="150px" height="100px"/> 
     </td>
+</tr>
+<tr>
     <td align='center'>
          <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="150px" height="100px"/>
     </td>
-</tr>
-<tr>
     <td align='center'>
          <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="150px" height="100px"/>
     </td>
@@ -56,6 +54,8 @@ puzzles.
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="150px" height="100px"/> 
     </td>
 </tr>
+<!-- <tr>
+</tr> -->
 </table>
 
 <br />
