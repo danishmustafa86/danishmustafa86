@@ -51,7 +51,9 @@ puzzles.
          <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="170px" height="120px"/>
     </td>
     <td align='center'>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="170px" height="120px"/> 
+	<img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="170" height="120"/>    </td>
+    </td>
+    <td align='center'>
     </td>
 </tr>
 <!-- <tr>
