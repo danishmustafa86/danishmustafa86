@@ -62,10 +62,10 @@ puzzles.
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="170" height="120"/>	
     </td>
     <td align='center'>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="170" height="120"/>	
+        <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="bootstrap" width="170" height="120"/>	
     </td>
     <td align='center'>
-        [Jajja]<img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="bootstrap" width="170" height="120"/>	
+        <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="bootstrap" width="130" height="120"/>	
     </td>
 </tr>
 </table>
