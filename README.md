@@ -54,6 +54,7 @@ puzzles.
 	<img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="170" height="120"/>    </td>
     </td>
     <td align='center'>
+	<img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
     </td>
 </tr>
 <!-- <tr>
