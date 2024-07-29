@@ -1,41 +1,7 @@
 
 <!-- : [See here!](https://www.linkedin.com/feed/update/urn:li:activity:7190462861754720256/) -->
 <!--  # Software Engineer & Tech Trainer 🖥️.  -->
-<h1> Software Engineer & Tech Trainer 🖥️. <a href="https://hits.sh/github.com/danishmustafa86/"><img src="https://komarev.com/ghpvc/?username=danishmustafa86&label=Profile%20views&color=0e75b6&style=flat" alt="danishmustafa86" /></a></h1>
-
-
-
-<h2><i>Empowering Minds Through Code.</i></h2>
-<!-- <div style="width: 80%; margin: 0 auto">
-<!-- <a href="https://drive.google.com/file/d/1VoW3VGwb0dlfR0XMFlPWOvK1b47_CcIK/view" target="_blank"><img align="right" alt="" style="margin-top: 30px;" src="./Images/Ahmad.gif"/></a>  -->
-</div>  -->
-
-
-
-<!-- # Hi there, I'm DANISH MUSTAFA 👋. -->
-
-
-
-<!-- ##  -->
-
-<!-- ## Learn with DANISH MUSTAFA :mailbox_with_mail: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Wanna see glimpses of how I train? Click below ⬇️ -->
-<!-- <div >
-  <b style="display: inline-block; margin-right: 20px; font-size: 2.5em; ">Learn with Ahmad Jajja 📬</b>
-  
-  
-  <b style="display: inline-block;font-size: 1.5em;">Wanna see glimpses of how I train? Click on the picture!</b>
-</div> -->
-
-
-<!-- <a href="https://drive.google.com/file/d/1VoW3VGwb0dlfR0XMFlPWOvK1b47_CcIK/view" target="_blank"><img align="right" alt="" style="margin-top: 30px;" src="./Images/SMIT-Click.jpeg" width="480" /></a> -->
-<a href="https://drive.google.com/file/d/1VoW3VGwb0dlfR0XMFlPWOvK1b47_CcIK/view" target="_blank" >
-<!-- <i style="position: absolute; right : 1;top: 20%; z-index: 3">Saylani Mass IT Training Program</i> -->
-<!-- <img align="right" alt=""  src="./Images/Ahmad.gif" width="490"  /> -->
-</a>	
-
-<!-- <img align="right" alt="" style="margin-top: 30px;" src="./Images/SMIT-Click.jpeg" width="58%"/> -->
-
-           |
+<h1> Software Engineer & Tech Trainer 🖥️. <a href="https://hits.sh/github.com/danishmustafa86/"><img src="https://komarev.com/ghpvc/?username=danishmustafa86&label=Profile%20views&color=0e75b6&style=flat" alt="danishmustafa86" /></a></h1>          |
 
 - @ **[LeetCode](https://leetcode.com/u/danishmustafa86/)** Solved 200+ Data Structures & Algorithms problems on **[Leetcode](https://leetcode.com/u/danishmustafa86/)**.
 -  @[iCodeGuru](https://www.linkedin.com/company/icode-guru/mycompany/) Providing training on Data Structures and Algorithms session
