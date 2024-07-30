@@ -98,7 +98,7 @@ puzzles.
   <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=danishmustafa86&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=danishmustafa86&layout=compact&langs_count=8&theme=algolia"/>
 </a>
-  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=danishmustafa86&show_icons=true&locale=en&layout=demo&theme=merko&hide_border=true" />
+  <img width="98%" src="https://github-readme-streak-stats.herokuapp.com/?user=danishmustafa86&show_icons=true&locale=en&layout=demo&theme=merko&hide_border=true" />
 </p>
 </p>
 
