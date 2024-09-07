@@ -129,7 +129,7 @@ puzzles.
      <img src="https://lablab.ai/_next/image?url=https%3A%2F%2Fstorage.googleapis.com%2Flablab-static-eu%2Fimages%2Fevents%2Fclz9s4wyq000p3b6z3veminw4%2Fclz9s4wyq000p3b6z3veminw4_imageLink_gp9uar0j1k.jpg&w=1080&q=75" width="400">
   </a> 
   <a href="https://github.com/HassanMehmood413/GenAi_Hackathon-back-">
-     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRF11OYYBSFzygPE3sSBNAZtFGsy_7tMUk2nw&s" width="400" text-align: center padding: 20px >
+     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRF11OYYBSFzygPE3sSBNAZtFGsy_7tMUk2nw&s" width="400"; text-align: center; padding: 20px >
   </a>
  
   </p>
