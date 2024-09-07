@@ -125,22 +125,15 @@ puzzles.
   <a href="https://lablab.ai/event/ibm-watsonx-challenge/blue-mind-hackers/techease" target="_blank">
     <img src="https://storage.googleapis.com/lablab-static-eu/images/events/clyyg9s36000f357erj4ytsnm/clyyg9s36000f357erj4ytsnm_imageLink_143zw03r1.jpg" width="390">
   </a>
+  <a href="https://lablab.ai/_next/image?url=https%3A%2F%2Fstorage.googleapis.com%2Flablab-static-eu%2Fimages%2Fevents%2Fclz9s4wyq000p3b6z3veminw4%2Fclz9s4wyq000p3b6z3veminw4_imageLink_gp9uar0j1k.jpg&w=1080&q=75">
+     <img src="https://lablab.ai/_next/image?url=https%3A%2F%2Fstorage.googleapis.com%2Flablab-static-eu%2Fimages%2Fevents%2Fclz9s4wyq000p3b6z3veminw4%2Fclz9s4wyq000p3b6z3veminw4_imageLink_gp9uar0j1k.jpg&w=1080&q=75" width="400">
+  </a> 
   <a href="https://github.com/HassanMehmood413/GenAi_Hackathon-back-">
      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRF11OYYBSFzygPE3sSBNAZtFGsy_7tMUk2nw&s" width="400">
   </a>
  
   
-   &nbsp; &nbsp;
-  <a href="https://lablab.ai/event/ai-agents-hackathon-2/viral-cuts/viral-clips">
-     <img src="https://github.com/DonGuillotine/DonGuillotine/assets/89584431/62cf67c7-6df6-4337-809a-8fd2e102b748" width="400">
-  </a>
-   
-  <a href="https://lablab.ai/event/monday-ai-app-hackathon/simons-strike-team/monday-ai-assistant">
-     <img src="https://github.com/DonGuillotine/DonGuillotine/assets/89584431/cb2e560f-5ac1-45a2-ada8-ea7681b7be34" width="400">
-  </a> 
-  <a href="https://lablab.ai/_next/image?url=https%3A%2F%2Fstorage.googleapis.com%2Flablab-static-eu%2Fimages%2Fevents%2Fclz9s4wyq000p3b6z3veminw4%2Fclz9s4wyq000p3b6z3veminw4_imageLink_gp9uar0j1k.jpg&w=1080&q=75">
-     <img src="https://lablab.ai/_next/image?url=https%3A%2F%2Fstorage.googleapis.com%2Flablab-static-eu%2Fimages%2Fevents%2Fclz9s4wyq000p3b6z3veminw4%2Fclz9s4wyq000p3b6z3veminw4_imageLink_gp9uar0j1k.jpg&w=1080&q=75" width="400">
-  </a> 
+
 </p>
 
 
