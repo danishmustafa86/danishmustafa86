@@ -5,6 +5,7 @@
 - @[iCodeGuru](https://www.linkedin.com/company/icode-guru/mycompany/) Providing training on Data Structures and Algorithms session
 - @[iCodeGuru](https://www.linkedin.com/company/icode-guru/mycompany/) Providing training on Introduction to Artificial Intelligence 
 - If you want to see how I provide training to my students have a look → **[**👀**](https://docs.google.com/spreadsheets/d/1860Cq-mbY6hRbQTr93lJ2_7U9c-qo3A3GOuFupNd1UY/edit?gid=0#gid=0)**
+- @ **[Meta Hacker Cup 2024](https://www.linkedin.com/posts/danishmustafa86_asslam-alaikum-connections-im-happy-to-activity-7244526860087304193-ChXB?utm_source=share&utm_medium=member_desktop)**: Participated in Meta Hacker Cup 2024 where I've work with international Engineers and solve complex problems .
 - @ **[Harvard University](https://www.linkedin.com/posts/danishmustafa86_cs50xabrpuzzleabrdayabr2024-activity-7185718867233513472-dUre?utm_source=share&utm_medium=member_desktop)**: Our team got 2nd position by  solving 9/8 complex puzzles.
 - **@[iCodeGuru](https://icodeguru.weebly.com/)**: Offers volunteer teaching in AI and DSA, emphasizing LeetCode.
 - **@Stanford University**: [Selected](https://www.linkedin.com/posts/danishmustafa86_stanfordabrcodeabrinabrplace-stanford-stanforduniversity-activity-7207801096927375360-O9N1?utm_source=share&utm_medium=member_desktop) Selected as a Senior student.
