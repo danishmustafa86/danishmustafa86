@@ -138,44 +138,42 @@
 
 <h2>🏆 COMPLETED INTERNATIONAL HACKATHONS</h2>
 
-<p float="left">
+<p align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
   <a href="https://lablab.ai/event/ibm-watsonx-challenge/blue-mind-hackers/techease" target="_blank">
-    <img src="https://storage.googleapis.com/lablab-static-eu/images/events/clyyg9s36000f357erj4ytsnm/clyyg9s36000f357erj4ytsnm_imageLink_143zw03r1.jpg" width="390" height="205">
+    <img src="https://storage.googleapis.com/lablab-static-eu/images/events/clyyg9s36000f357erj4ytsnm/clyyg9s36000f357erj4ytsnm_imageLink_143zw03r1.jpg" width="390" height="205" alt="TechEase Challenge">
   </a>
   <a href="https://github.com/HassanMehmood413/GenAi_Hackathon-back-">
-     <img src="https://i.ibb.co/hmMfv5L/Hack-This-Fall-36-Hours-Virtual-2024.png" width="390" height="205">
+    <img src="https://i.ibb.co/hmMfv5L/Hack-This-Fall-36-Hours-Virtual-2024.png" width="390" height="205" alt="Hack This Fall 2024">
   </a>
   <a href="https://github.com/umarwar/TechEase">
-     <img src="https://i.ibb.co/5WJ62Rp/Screenshot-2024-09-11-110157.png" width="390" height="205">
-  </a
-   <a href="https://github.com/danishmustafa86/AI-AGENT">
-     <img src="https://i.ibb.co/Xb7btv7/Screenshot-2024-09-16-072758.png" width="390" height="205">
-  </a
+    <img src="https://i.ibb.co/5WJ62Rp/Screenshot-2024-09-11-110157.png" width="390" height="205" alt="TechEase Screenshot">
+  </a>
+  <a href="https://github.com/danishmustafa86/AI-AGENT">
+    <img src="https://i.ibb.co/Xb7btv7/Screenshot-2024-09-16-072758.png" width="390" height="205" alt="AI Agent Screenshot">
+  </a>
   <a href="https://github.com/HassanMehmood413/AI-Audio-Assistant">
-     <img src=https://i.ibb.co/4d8GCBv/Screenshot-2024-10-12-085615.png" width="390" height="205">
-  </a
-
+    <img src="https://i.ibb.co/4d8GCBv/Screenshot-2024-10-12-085615.png" width="390" height="205" alt="AI Audio Assistant Screenshot">
+  </a>
   <a href="https://github.com/HassanMehmood413/AI_Emotions_Analysis">
-     <img src="https://i.ibb.co/F00H0km/Screenshot-2024-10-21-235934.png" width="390" height="205">
-  </a
-
+    <img src="https://i.ibb.co/F00H0km/Screenshot-2024-10-21-235934.png" width="390" height="205" alt="AI Emotions Analysis Screenshot">
+  </a>
   <a href="https://github.com/HassanMehmood413/AI-blogs">
-     <img src="https://i.ibb.co/HKsdSvt/Screenshot-2024-10-22-000235.png" width="390" height="205">
-  </a
-
-<a href="https://github.com/HassanMehmood413/AI-blogs">
-     <img src="https://i.ibb.co/JvBXmvP/Screenshot-2024-12-12-104630.png"" width="390" height="205">
-  </a
-
-   
+    <img src="https://i.ibb.co/HKsdSvt/Screenshot-2024-10-22-000235.png" width="390" height="205" alt="AI Blogs Screenshot">
+  </a>
+  <a href="https://github.com/HassanMehmood413/AI-blogs">
+    <img src="https://i.ibb.co/JvBXmvP/Screenshot-2024-12-12-104630.png" width="390" height="205" alt="AI Blogs Screenshot 2">
+  </a>
 </p>
 
-
 <hr/>
+<p align="center">
+  <strong>Exploring the intersection of technology and creativity as a <span style="color: #4CAF50;">Software Engineer</span> and <span style="color: #008CBA;">Coder</span>. Passionate about solving real-world problems with innovative solutions.</strong>
+</p>
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=transparent" alt="Random Dev Quote" />
 </p>
 <hr/>
+
 
  
 
