@@ -138,7 +138,7 @@
 
 <h2>🏆 COMPLETED INTERNATIONAL HACKATHONS</h2>
 
-<p align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+<p align="center" style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px; justify-items: center;">
   <a href="https://lablab.ai/event/ibm-watsonx-challenge/blue-mind-hackers/techease" target="_blank">
     <img src="https://storage.googleapis.com/lablab-static-eu/images/events/clyyg9s36000f357erj4ytsnm/clyyg9s36000f357erj4ytsnm_imageLink_143zw03r1.jpg" width="390" height="205" alt="TechEase Challenge">
   </a>
@@ -164,6 +164,7 @@
     <img src="https://i.ibb.co/JvBXmvP/Screenshot-2024-12-12-104630.png" width="390" height="205" alt="AI Blogs Screenshot 2">
   </a>
 </p>
+
 
 <hr/>
 <p align="center">
