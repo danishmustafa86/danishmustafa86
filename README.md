@@ -1,4 +1,4 @@
-<h1> Software Engineer & Tech Trainer, ML/AI Enthusiast 🖥️. <a href="https://hits.sh/github.com/danishmustafa86/"><img src="https://komarev.com/ghpvc/?username=danishmustafa86&label=Profile%20views&color=0e75b6&style=flat" alt="danishmustafa86" /></a></h1>
+<h1> Software Engineer & Tech Trainer 🖥️. <a href="https://hits.sh/github.com/danishmustafa86/"><img src="https://komarev.com/ghpvc/?username=danishmustafa86&label=Profile%20views&color=0e75b6&style=flat" alt="danishmustafa86" /></a></h1>
 
 - @ **[LeetCode](https://leetcode.com/u/danishmustafa86/)** Solved 380+ Data Structures & Algorithms problems on **[Leetcode](https://leetcode.com/u/danishmustafa86/)**.
 - @ **[Lablab.ai](https://lablab.ai/u/@danish_mustafa)** Attended 9 International hacakathons **[Lablab.ai](https://lablab.ai)**.
