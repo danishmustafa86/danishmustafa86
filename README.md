@@ -49,25 +49,8 @@
      <td align='center' width="190">
         <img src="./Images/git.webp" alt="Git" width="150px" height="100px">
     </td>
-     <td align='center' width="190">
-        <img src="./Images/cloud-firestore.jpg" alt="Cloud-Firestore" width="150px" height="100px">
-    </td>
-</tr>
-<tr>
     <td align='center'>
         <img src="./Images/python.png" alt="Python"  width="150px" height="100px">
-    </td>
-    <td align='center'>
-        <img src="./Images/node-js.webp" alt="Node-JS"  width="150px" height="100px">
-    </td>
-    <td align='center'>
-        <img src="./Images/express-js.png" alt="Express-JS"  width="150px" height="100px">
-    </td>
-    <td align='center'>
-        <img src="./Images/mongo-db.png" alt="Mongo-DB"  width="150px" height="100px">
-    </td>
-    <td align='center'>
-        <img src="./Images/firebase.png" alt="Firebase"  width="150px" height="100px">
     </td>
 </tr>
 <tr>
@@ -78,47 +61,31 @@
         <img src="./Images/css2.png" alt="CSS"  width="150px" height="100px">
     </td>
     <td align='center'>
-        <img src="./Images/heroku.svg" alt="Heroku"  width="150px" height="100px">
-    </td>
-    <td align='center'>
         <img src="./Images/vs-code.jpg" alt="VS-CODE"  width="150px" height="100px">
     </td>
     <td align='center'>
         <img src="./Images/postman.png" alt="Postman"  width="150px" height="100px">
     </td>
-</tr>
-<tr>
-    <td align='center'>
-        <img src="./Images/graphql.png" alt="Graph-QL"  width="150px" height="100px">
-    </td>
     <td align='center'>
         <img src="./Images/react-native.png" alt="React-Native"  width="150px" height="100px">
     </td>
-    <td align='center'>
-        <img src="./Images/dart.png" alt="Dart"  width="150px" height="100px">
-    </td>
-    <td align='center'>
-        <img src="./Images/Github.png" alt="Github"  width="150px" height="100px">
-    </td>
-    <td align='center'>
-        <img src="./Images/sass.png" alt="SASS"  width="150px" height="100px">
-    </td>
 </tr>
+
 <tr>
     <td align='center'>
         <img src="./Images/bootstrap.png" alt="Bootstrap 5"  width="150px" height="100px">
-    </td>
-    <td align='center'>
-        <img src="./Images/chakra.png" alt="Chakra-UI"  width="150px" height="100px">
-    </td>
-    <td align='center'>
-        <img src="./Images/IJ.png" alt="IntelliJ IDEA"  width="150px" height="100px">
     </td>
     <td align='center'>
         <img src="./Images/linux.png" alt="Linux"  width="150px" height="100px">
     </td>
     <td align='center'>
         <img src="./Images/scss.webp" alt="SCSS"  width="150px" height="100px">
+    </td>
+    <td align='center'>
+        <img src="./Images/Github.png" alt="Github"  width="150px" height="100px">
+    </td>
+    <td align='center'>
+        <img src="./Images/sass.png" alt="SASS"  width="150px" height="100px">
     </td>
 </tr>
 
