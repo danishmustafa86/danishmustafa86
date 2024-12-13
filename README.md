@@ -15,63 +15,6 @@ puzzles.
 
 <h2><i>💻 Tech Stack and Tools</i></h2>
 
- <!-- <table width="100">
-<tr>
-    <td align='center' width="190">
-         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="170px" height="120px"/>
-    </td>
-     <td align='center' width="190">
-       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="170px" height="120px"/> </a> 
-    </td>
-     <td align='center' width="190">
-         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="170px" height="120px"/>
-    </td>
-     <td align='center' width="190">
-       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="170px" height="120px"/>
-    </td>
-</tr>
-<tr>
-    <td align='center'>
-         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="170px" height="120px"/>
-    </td>
-    <td align='center'>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="170px" height="120px"/>
-    </td>
-    <td align='center'>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="170px" height="120px"/>
-    </td>
-    <td align='center'>
-       <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="170px" height="120px"/> 
-    </td>
-</tr>
-<tr>
-    <td align='center'>
-         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="170px" height="120px"/>
-    </td>
-    <td align='center'>
-         <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="170px" height="120px"/>
-    </td>
-    <td align='center'>
-	<img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="170" height="120"/>    </td>
-    </td>
-    <td align='center'>
-	<img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="170" height="120"/>
-    </td>
-</tr>
-<tr>
-    <td align='center'>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="170" height="120"/>	
-    </td>
-    <td align='center'>
-        <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="github" width="120" height="120"/>	
-    </td>
-    <td align='center'>
-        <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white.svg" alt="numpy" width="120" height="120"/>	
-    </td>
-</tr>
-</table> -->
-
-
 <!-- Ahmad Jajja stacks -->
 <table width="100">
 <tr>
@@ -151,7 +94,7 @@ puzzles.
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
--->
+
 
 
 
@@ -213,4 +156,72 @@ puzzles.
 
  
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+ <!-- <table width="100">
+<tr>
+    <td align='center' width="190">
+         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="170px" height="120px"/>
+    </td>
+     <td align='center' width="190">
+       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="170px" height="120px"/> </a> 
+    </td>
+     <td align='center' width="190">
+         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="170px" height="120px"/>
+    </td>
+     <td align='center' width="190">
+       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="170px" height="120px"/>
+    </td>
+</tr>
+<tr>
+    <td align='center'>
+         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="170px" height="120px"/>
+    </td>
+    <td align='center'>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="170px" height="120px"/>
+    </td>
+    <td align='center'>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="170px" height="120px"/>
+    </td>
+    <td align='center'>
+       <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="170px" height="120px"/> 
+    </td>
+</tr>
+<tr>
+    <td align='center'>
+         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="170px" height="120px"/>
+    </td>
+    <td align='center'>
+         <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="170px" height="120px"/>
+    </td>
+    <td align='center'>
+	<img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="170" height="120"/>    </td>
+    </td>
+    <td align='center'>
+	<img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="170" height="120"/>
+    </td>
+</tr>
+<tr>
+    <td align='center'>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="170" height="120"/>	
+    </td>
+    <td align='center'>
+        <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="github" width="120" height="120"/>	
+    </td>
+    <td align='center'>
+        <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white.svg" alt="numpy" width="120" height="120"/>	
+    </td>
+</tr>
+</table> -->
 
