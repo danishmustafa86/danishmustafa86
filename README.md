@@ -1,7 +1,7 @@
 <h1> Software Engineer & Trainer, ML/AI Enthusiast 🖥️. <a href="https://hits.sh/github.com/danishmustafa86/"><img src="https://komarev.com/ghpvc/?username=danishmustafa86&label=Profile%20views&color=0e75b6&style=flat" alt="danishmustafa86" /></a></h1>
 
-- @ **[LeetCode](https://leetcode.com/u/danishmustafa86/)** Solved 350+ Data Structures & Algorithms problems on **[Leetcode](https://leetcode.com/u/danishmustafa86/)**.
-- @ **[Lablab.ai](https://lablab.ai/u/@danish_mustafa)** Attended 7 International hacakathons **[Lablab.ai](https://lablab.ai)**.
+- @ **[LeetCode](https://leetcode.com/u/danishmustafa86/)** Solved 380+ Data Structures & Algorithms problems on **[Leetcode](https://leetcode.com/u/danishmustafa86/)**.
+- @ **[Lablab.ai](https://lablab.ai/u/@danish_mustafa)** Attended 9 International hacakathons **[Lablab.ai](https://lablab.ai)**.
 - @[iCodeGuru](https://www.linkedin.com/company/icode-guru/mycompany/) Providing training on Data Structures and Algorithms, python and Generative AI. 
 - If you want to see how I provide training to my students have a look → **[**👀**](https://docs.google.com/spreadsheets/d/1860Cq-mbY6hRbQTr93lJ2_7U9c-qo3A3GOuFupNd1UY/edit?gid=0#gid=0)**
 - @ **[Meta Hacker Cup 2024](https://www.linkedin.com/posts/danishmustafa86_asslam-alaikum-connections-im-happy-to-activity-7244526860087304193-ChXB?utm_source=share&utm_medium=member_desktop)**: Participated in Meta Hacker Cup 2024 where I've work with international Engineers and solve complex problems .
@@ -10,7 +10,7 @@
 - **@Stanford University**: [Selected](https://www.linkedin.com/posts/danishmustafa86_stanfordabrcodeabrinabrplace-stanford-stanforduniversity-activity-7207801096927375360-O9N1?utm_source=share&utm_medium=member_desktop) Selected as a Senior student.
 - **@Harvard University(CS50x_PuzzleDay_Winner)**: Our team [won 2nd place](https://www.linkedin.com/posts/danishmustafa86_cs50xabrpuzzleabrdayabr2024-activity-7185718867233513472-dUre?utm_source=share&utm_medium=member_desktop) at CS50x Puzzle Day 2024 by solving 9/8 complex
 puzzles.
-- **@[Typing Speed](https://www.linkedin.com/posts/danishmustafa86_asslam-alaikum-linkedin-family-i-want-to-activity-7227953110546087936-m9IH?utm_source=share&utm_medium=member_desktop)** More than 83wpms.
+- **@[Typing Speed](https://www.linkedin.com/posts/danishmustafa86_leetcode-icodeguru-ai-activity-7256168302165528577-Vhc2?utm_source=share&utm_medium=member_desktop)** More than 92wpms.
 <!-- - 📫 How to reach me **danishmustafa86@gmail.com** -->
 
 <h2><i>💻 Tech Stack and Tools</i></h2>
