@@ -112,15 +112,16 @@
 <br />
 <br />
 
-<h2><i>Connect with Me 🤝</i></h2>
+## Connect with Me 🤝
 
 <p align="center">
-<a href="https://danishmustafa86.vercel.app"><img src="https://img.shields.io/badge/-ahmadjajja.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/danishmustafa86"><img src="https://img.shields.io/badge/-Ahmad%20Jajja-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://danishmustafa86.vercel.app/"><img src="https://img.shields.io/badge/-DanishJajja.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/danishmustafa86"><img src="https://img.shields.io/badge/Danish%20Mustafa-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:danishjajja86@gmail.com"><img src="https://img.shields.io/badge/-danishjajja86@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://leetcode.com/u/danishmustafa86/"><img src="https://img.shields.io/badge/-danishjajja86@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://lablab.ai/u/@danish_mustafa"><img src="https://img.shields.io/badge/-danishjajja86@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://leetcode.com/u/danishmustafa86/" target="_blank"><img src="https://img.shields.io/badge/LeetCode%20Profile-FFA116?style=flat&logo=LeetCode&logoColor=white"/></a>
+<a href="https://lablab.ai/u/@danish_mustafa" target="_blank"><img src="https://img.shields.io/badge/-LabLab Profile-3B5998?style=flat&logo=LabLab&logoColor=white"/></a>
 </p>
+  
 
 <h2><i>⚙️ GitHub Analytics</i></h2>
 
