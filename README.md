@@ -115,18 +115,11 @@
 <h2><i>Connect with Me 🤝</i></h2>
 
 <p align="center">
-  <a href="https://linkedin.com/in/danishmustafa86" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="100" />
-  </a>
-  <a href="https://fb.com/danish.jajja.56" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="40" width="100" />
-  </a>
-  <a href="https://www.leetcode.com/danishmustafa86" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="40" width="100" />
-  </a>
-  <a href="mailto:danishdev555@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-mail-D14836?style=flat&logo=Gmail&logoColor=white" alt="Email" height="40" width="100" />
-  </a>
+<a href="https://www.ahmad-jajja.com"><img src="https://img.shields.io/badge/-ahmadjajja.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/danishmustafa86"><img src="https://img.shields.io/badge/-Ahmad%20Jajja-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:danishjajja86@gmail.com"><img src="https://img.shields.io/badge/-danishjajja86@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://leetcode.com/u/danishmustafa86/"><img src="https://img.shields.io/badge/-danishjajja86@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://lablab.ai/u/@danish_mustafa"><img src="https://img.shields.io/badge/-danishjajja86@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
 
 <h2><i>⚙️ GitHub Analytics</i></h2>
