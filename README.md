@@ -140,12 +140,42 @@
 
 <p float="left">
   <a href="https://lablab.ai/event/ibm-watsonx-challenge/blue-mind-hackers/techease" target="_blank">
-    <img src="https://storage.googleapis.com/lablab-static-eu/images/events/clyyg9s36000f357erj4ytsnm/clyyg9s36000f357erj4ytsnm_imageLink_143zw03r1.jpg" width="390">
+    <img src="https://storage.googleapis.com/lablab-static-eu/images/events/clyyg9s36000f357erj4ytsnm/clyyg9s36000f357erj4ytsnm_imageLink_143zw03r1.jpg" width="390" height="205">
   </a>
-  <a href="https://lablab.ai/_next/image?url=https%3A%2F%2Fstorage.googleapis.com%2Flablab-static-eu%2Fimages%2Fevents%2Fclz9s4wyq000p3b6z3veminw4%2Fclz9s4wyq000p3b6z3veminw4_imageLink_gp9uar0j1k.jpg&w=1080&q=75">
-    <img src="https://lablab.ai/_next/image?url=https%3A%2F%2Fstorage.googleapis.com%2Flablab-static-eu%2Fimages%2Fevents%2Fclz9s4wyq000p3b6z3veminw4%2Fclz9s4wyq000p3b6z3veminw4_imageLink_gp9uar0j1k.jpg&w=1080&q=75" width="400">
+  <a href="https://github.com/HassanMehmood413/GenAi_Hackathon-back-">
+     <img src="https://i.ibb.co/hmMfv5L/Hack-This-Fall-36-Hours-Virtual-2024.png" width="390" height="205">
   </a>
+  <a href="https://github.com/umarwar/TechEase">
+     <img src="https://i.ibb.co/5WJ62Rp/Screenshot-2024-09-11-110157.png" width="390" height="205">
+  </a
+   <a href="https://github.com/danishmustafa86/AI-AGENT">
+     <img src="https://i.ibb.co/Xb7btv7/Screenshot-2024-09-16-072758.png" width="390" height="205">
+  </a
+  <a href="https://github.com/HassanMehmood413/AI-Audio-Assistant">
+     <img src=https://i.ibb.co/4d8GCBv/Screenshot-2024-10-12-085615.png" width="390" height="205">
+  </a
+
+  <a href="https://github.com/HassanMehmood413/AI_Emotions_Analysis">
+     <img src="https://i.ibb.co/F00H0km/Screenshot-2024-10-21-235934.png" width="390" height="205">
+  </a
+
+  <a href="https://github.com/HassanMehmood413/AI-blogs">
+     <img src="https://i.ibb.co/HKsdSvt/Screenshot-2024-10-22-000235.png" width="390" height="205">
+  </a
+
+<a href="https://github.com/HassanMehmood413/AI-blogs">
+     <img src="https://i.ibb.co/JvBXmvP/Screenshot-2024-12-12-104630.png"" width="390" height="205">
+  </a
+
+   
 </p>
+
+
+<hr/>
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=transparent" alt="Random Dev Quote" />
+</p>
+<hr/>
 
  
 
