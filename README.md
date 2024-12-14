@@ -13,8 +13,8 @@
 - @ **[Harvard University](https://www.linkedin.com/posts/danishmustafa86_cs50xabrpuzzleabrdayabr2024-activity-7185718867233513472-dUre?utm_source=share&utm_medium=member_desktop)**: Achieved 2nd position by solving 9/8 complex puzzles in CS50x Puzzle Day 2024.  
 - @ **[iCodeGuru](https://icodeguru.weebly.com/)**: Offers volunteer teaching in AI and DSA, emphasizing LeetCode practice.  
 - @ **Stanford University**: [Selected](https://www.linkedin.com/posts/danishmustafa86_stanfordabrcodeabrinabrplace-stanford-stanforduniversity-activity-7207801096927375360-O9N1?utm_source=share&utm_medium=member_desktop) as a Senior student.
-- **@[Meta Hacker Cup](https://github.com/HassanMehmood413/Meta_Hacker_Cup-2024-)**: Participated in Meta Hacker Cup **2024** where my team tackled complex problems and solve them.
-- **@[UC Berkeley Coding Competition](https://github.com/HassanMehmood413/UC_Berkeley_Coding_Competition_2024)**: Participated in UC Berkeley Competition  **2024** where I've work with International Engineers and programmers to solv complex problems.  
+- **@[Meta Hacker Cup](https://github.com/danishmustafa86/Meta-Hacker-Cup-)**: Participated in Meta Hacker Cup **2024** where my team tackled complex problems and solve them.
+- **@[UC Berkeley Coding Competition](https://github.com/danishmustafa86/Advent-Of-Code-2024)**: Participated in UC Berkeley Competition  **2024** where I've work with International Engineers and programmers to solv complex problems.  
 - @ **[Typing Speed](https://www.linkedin.com/posts/danishmustafa86_leetcode-icodeguru-ai-activity-7256168302165528577-Vhc2?utm_source=share&utm_medium=member_desktop)**: Achieved more than 92 WPM typing speed.  
 
 <h2><i>💻 Tech Stack and Tools</i></h2>
