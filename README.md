@@ -3,6 +3,7 @@
     <img src="https://komarev.com/ghpvc/?username=danishmustafa86&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views of Danish Mustafa" />
   </a>
 </h1>
+<h2><b>Fueling Passion for Problem-Solving Through Code 🧩</b></h2>
 
 - @ **[LeetCode](https://leetcode.com/u/danishmustafa86/)**: Solved 380+ Data Structures & Algorithms problems on **[Leetcode](https://leetcode.com/u/danishmustafa86/)**.
 - @ **[Lablab.ai](https://lablab.ai/u/@danish_mustafa)**: Attended 9 international hackathons via **[Lablab.ai](https://lablab.ai)**.
@@ -11,7 +12,9 @@
 - @ **[Meta Hacker Cup 2024](https://www.linkedin.com/posts/danishmustafa86_asslam-alaikum-connections-im-happy-to-activity-7244526860087304193-ChXB?utm_source=share&utm_medium=member_desktop)**: Participated and collaborated with international engineers to solve complex problems.  
 - @ **[Harvard University](https://www.linkedin.com/posts/danishmustafa86_cs50xabrpuzzleabrdayabr2024-activity-7185718867233513472-dUre?utm_source=share&utm_medium=member_desktop)**: Achieved 2nd position by solving 9/8 complex puzzles in CS50x Puzzle Day 2024.  
 - @ **[iCodeGuru](https://icodeguru.weebly.com/)**: Offers volunteer teaching in AI and DSA, emphasizing LeetCode practice.  
-- @ **Stanford University**: [Selected](https://www.linkedin.com/posts/danishmustafa86_stanfordabrcodeabrinabrplace-stanford-stanforduniversity-activity-7207801096927375360-O9N1?utm_source=share&utm_medium=member_desktop) as a Senior student.  
+- @ **Stanford University**: [Selected](https://www.linkedin.com/posts/danishmustafa86_stanfordabrcodeabrinabrplace-stanford-stanforduniversity-activity-7207801096927375360-O9N1?utm_source=share&utm_medium=member_desktop) as a Senior student.
+- **@[Meta Hacker Cup](https://github.com/HassanMehmood413/Meta_Hacker_Cup-2024-)**: Participated in Meta Hacker Cup **2024** where my team tackled complex problems and solve them.
+- **@[UC Berkeley Coding Competition](https://github.com/HassanMehmood413/UC_Berkeley_Coding_Competition_2024)**: Participated in UC Berkeley Competition  **2024** where I've work with International Engineers and programmers to solv complex problems.  
 - @ **[Typing Speed](https://www.linkedin.com/posts/danishmustafa86_leetcode-icodeguru-ai-activity-7256168302165528577-Vhc2?utm_source=share&utm_medium=member_desktop)**: Achieved more than 92 WPM typing speed.  
 
 <h2><i>💻 Tech Stack and Tools</i></h2>
