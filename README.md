@@ -11,7 +11,7 @@
 - **Training Showcase → [👀](https://docs.google.com/spreadsheets/d/1860Cq-mbY6hRbQTr93lJ2_7U9c-qo3A3GOuFupNd1UY/edit?gid=0#gid=0)**  
 - @ **[Meta Hacker Cup 2024](https://www.linkedin.com/posts/danishmustafa86_asslam-alaikum-connections-im-happy-to-activity-7244526860087304193-ChXB?utm_source=share&utm_medium=member_desktop)**: Participated and collaborated with international engineers to solve complex problems.  
 - @ **[Harvard University](https://www.linkedin.com/posts/danishmustafa86_cs50xabrpuzzleabrdayabr2024-activity-7185718867233513472-dUre?utm_source=share&utm_medium=member_desktop)**: Achieved 2nd position by solving 9/8 complex puzzles in CS50x Puzzle Day 2024.  
-- @ **[iCodeGuru](https://icodeguru.weebly.com/)**: Offers volunteer teaching in AI and DSA, emphasizing LeetCode practice.  
+- **@[Advent Of Code](https://github.com/HassanMehmood413/Advent-Of-Code-2024-Competition)**: Participated in Advent Of Code **2024** and Solve complex problems from **Day 0 - 25**.
 - @ **Stanford University**: [Selected](https://www.linkedin.com/posts/danishmustafa86_stanfordabrcodeabrinabrplace-stanford-stanforduniversity-activity-7207801096927375360-O9N1?utm_source=share&utm_medium=member_desktop) as a Senior student.
 - **@[Meta Hacker Cup](https://github.com/danishmustafa86/Meta-Hacker-Cup-)**: Participated in Meta Hacker Cup **2024** where my team tackled complex problems and solve them.
 - **@[UC Berkeley Coding Competition](https://github.com/danishmustafa86/Advent-Of-Code-2024)**: Participated in UC Berkeley Competition  **2024** where I've work with International Engineers and programmers to solv complex problems.  
