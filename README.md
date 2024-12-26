@@ -5,7 +5,7 @@
 </h1>
 <h2><b>Fueling Passion for Problem-Solving Through Code 🧩</b></h2>
 
-- @ **[LeetCode](https://leetcode.com/u/danishmustafa86/)**: Solved 380+ Data Structures & Algorithms problems on **[Leetcode](https://leetcode.com/u/danishmustafa86/)**.
+- @ **[LeetCode](https://leetcode.com/u/danishmustafa86/)**: Solved 400+ Data Structures & Algorithms problems on **[Leetcode](https://leetcode.com/u/danishmustafa86/)**.
 - @ **[Lablab.ai](https://lablab.ai/u/@danish_mustafa)**: Attended 9 international hackathons via **[Lablab.ai](https://lablab.ai)**.
 - @ **[iCodeGuru](https://www.linkedin.com/company/icode-guru/mycompany/)**: Providing training on Data Structures, Algorithms, Python, and Generative AI.  
 - **Training Showcase → [👀](https://docs.google.com/spreadsheets/d/1860Cq-mbY6hRbQTr93lJ2_7U9c-qo3A3GOuFupNd1UY/edit?gid=0#gid=0)**  
