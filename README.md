@@ -126,7 +126,7 @@
 </p>
   
 
-<h2><i>⚙️ GitHub Analytics</i></h2>
+<h2><i>⚙️ Github Analytics</i></h2>
 
 <p align="center">
 <a href="https://github.com/danishmustafa86">
