@@ -3,7 +3,7 @@
     <img src="https://komarev.com/ghpvc/?username=danishmustafa86&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views of Danish Mustafa" />
   </a>
 </h1>
-<h2><b>Fueling Passion for Problem-Solving Through Code 🧩</b></h2>
+<h2><b>Fueling Passion for Problem-Solving Through Code 🖥️b></h2>
 
 - @ **[LeetCode](https://leetcode.com/u/danishmustafa86/)**: Solved 400+ Data Structures & Algorithms problems on **[Leetcode](https://leetcode.com/u/danishmustafa86/)**.
 - @ **[Lablab.ai](https://lablab.ai/u/@danish_mustafa)**: Attended 9 international hackathons via **[Lablab.ai](https://lablab.ai)**.
