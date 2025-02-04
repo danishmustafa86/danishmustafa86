@@ -16,7 +16,7 @@
 - @ **Stanford University**: [Selected](https://www.linkedin.com/posts/danishmustafa86_stanfordabrcodeabrinabrplace-stanford-stanforduniversity-activity-7207801096927375360-O9N1?utm_source=share&utm_medium=member_desktop) as a Senior student.
 
 - **@[UC Berkeley Coding Competition](https://github.com/danishmustafa86/Advent-Of-Code-2024)**: Participated in UC Berkeley Competition  **2024** where I've work with International Engineers and programmers to solv complex problems.  
-- **@[MIT Winter Contest 2025](https://github.com/danishmustafa86/MIT-Winter-Contest-2025)**: Participated in MIT Winter Contest  **2024** where I've work with International Engineers and programmers to solve complex problems.  
+- **@[MIT Winter Contest 2025](https://github.com/danishmustafa86/MIT-Winter-Contest-2025)**: Participated in MIT Winter Contest  **2024** where I've work with a highly dedicated team of Engineers and programmers to solve complex problems.  
 - @ **[Typing Speed](https://www.linkedin.com/posts/danishmustafa86_leetcode-icodeguru-ai-activity-7256168302165528577-Vhc2?utm_source=share&utm_medium=member_desktop)**: Achieved more than 92 WPM.  
 
 <h2><i>💻 Tech Stack and Tools</i></h2>
