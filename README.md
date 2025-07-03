@@ -8,10 +8,10 @@
 - **Training Showcase → [👀](https://docs.google.com/spreadsheets/d/1860Cq-mbY6hRbQTr93lJ2_7U9c-qo3A3GOuFupNd1UY/edit?gid=0#gid=0)** 
 
 - @ **[LeetCode](https://leetcode.com/u/danishmustafa86/)**: Solved 440+ Data Structures & Algorithms problems on **[Leetcode](https://leetcode.com/u/danishmustafa86/)**.
-- @ **[Lablab.ai](https://lablab.ai/u/@danish_mustafa)**: Attended 9 international hackathons via **[Lablab.ai](https://lablab.ai)**.
+- @ **[Lablab.ai](https://lablab.ai/u/@danish_mustafa)**: Attended 15+ international hackathons via **[Lablab.ai](https://lablab.ai)**.
 - @ **[iCodeGuru](https://www.linkedin.com/company/icode-guru/mycompany/)**: Providing training on Data Structures & Algorithms, and Generative AI.  
 - @ **[Meta Hacker Cup 2024](https://www.linkedin.com/posts/danishmustafa86_asslam-alaikum-connections-im-happy-to-activity-7244526860087304193-ChXB?utm_source=share&utm_medium=member_desktop)**: Participated and collaborated with international engineers to solve complex problems.  
-- @ **[Harvard University](https://www.linkedin.com/posts/danishmustafa86_cs50xabrpuzzleabrdayabr2024-activity-7185718867233513472-dUre?utm_source=share&utm_medium=member_desktop)**: Achieved 2nd position by solving 9/8 complex puzzles in CS50x Puzzle Day 2024.  
+- @ **[Harvard University](https://www.linkedin.com/posts/danishmustafa86_cs50xabrpuzzleabrdayabr2024-activity-7185718867233513472-dUre?utm_source=share&utm_medium=member_desktop)**: Achieved 2nd position by solving 9/8 complex puzzles in CS50x Puzzle Day 2024 and won first place by 9/9 in 2025.  
 - **@[Advent Of Code](https://github.com/HassanMehmood413/Advent-Of-Code-2024-Competition)**: Participated in Advent Of Code **2024** and Solve complex problems from **Day 0 to 25** and successfully got **50** stars.
 - @ **Stanford University**: [Selected](https://www.linkedin.com/posts/danishmustafa86_stanfordabrcodeabrinabrplace-stanford-stanforduniversity-activity-7207801096927375360-O9N1?utm_source=share&utm_medium=member_desktop) as a Senior student.
 
