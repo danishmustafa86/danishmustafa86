@@ -7,7 +7,7 @@
 	
 - **Training Showcase → [👀](https://docs.google.com/spreadsheets/d/1860Cq-mbY6hRbQTr93lJ2_7U9c-qo3A3GOuFupNd1UY/edit?gid=0#gid=0)** 
 
-- @ **[LeetCode](https://leetcode.com/u/danishmustafa86/)**: Solved 440+ Data Structures & Algorithms problems on **[Leetcode](https://leetcode.com/u/danishmustafa86/)**.
+- @ **[LeetCode](https://leetcode.com/u/danishmustafa86/)**: Solved 440 Data Structures & Algorithms problems on **[Leetcode](https://leetcode.com/u/danishmustafa86/)**.
 - @ **[Lablab.ai](https://lablab.ai/u/@danish_mustafa)**: Attended 20+ international hackathons via **[Lablab.ai](https://lablab.ai)**.
 - @ **[iCodeGuru](https://www.linkedin.com/company/icode-guru/mycompany/)**: Providing training on Data Structures & Algorithms, and Generative AI.  
 - @ **[Stanford CIP SL](https://digitalcredential.stanford.edu/check/5C0E1240395E395ADDD7756091A630E5E94E05EAE2233D720F76DF48802C262FSVMxSzlsY2ovWVlKVzRQajhZYlNtU29vRGpudnMzNExxckFtNWtKd01WMnNWTGNS)**: Section Leader at Stanford Code In Place 2025, where I taught 50+ international studentts.  
