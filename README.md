@@ -103,7 +103,7 @@ Software Engineer specializing in **Full-Stack Development**, **AI/ML Engineerin
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
 </p>
 
-    </td>
+    
 <td width="50%" valign="top">
 
 ### 🎨 Frontend Development
@@ -116,7 +116,7 @@ Software Engineer specializing in **Full-Stack Development**, **AI/ML Engineerin
   <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass"/>
 </p>
 
-    </td>
+    
 </tr>
  
 <tr>
@@ -132,7 +132,7 @@ Software Engineer specializing in **Full-Stack Development**, **AI/ML Engineerin
   <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL"/>
 </p>
 
-    </td>
+    
 <td width="50%" valign="top">
 
 ### 🤖 AI/ML & Agent Frameworks
@@ -145,7 +145,7 @@ Software Engineer specializing in **Full-Stack Development**, **AI/ML Engineerin
   <img src="https://img.shields.io/badge/Generative_AI-FF6F61?style=for-the-badge&logo=openai&logoColor=white" alt="Generative AI"/>
 </p>
 
-    </td>
+    
 </tr>
 
 <tr>
@@ -159,7 +159,7 @@ Software Engineer specializing in **Full-Stack Development**, **AI/ML Engineerin
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn"/>
 </p>
 
-    </td>
+    
 <td width="50%" valign="top">
 
 ### 🔧 Development Tools & Automation
