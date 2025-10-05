@@ -174,7 +174,7 @@ Software Engineer specializing in **Full-Stack Development**, **AI/ML Engineerin
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
 </p>
 
-    </td>
+    
 </tr>
 </table>
 
