@@ -22,12 +22,12 @@
   <img src="https://komarev.com/ghpvc/?username=danishmustafa86&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://img.shields.io/badge/Focus-AI%20%7C%20Full--Stack%20%7C%20DSA-blueviolet?style=for-the-badge" alt="Focus Areas"/>
   <img src="https://img.shields.io/badge/Experience-3%2B%20Years-success?style=for-the-badge" alt="Experience"/>
   <img src="https://img.shields.io/badge/Location-Pakistan-green?style=for-the-badge" alt="Location"/>
   <img src="https://img.shields.io/badge/Status-Available%20for%20Hire-brightgreen?style=for-the-badge" alt="Status"/>
-</p>
+</p> -->
 
 ---
 
