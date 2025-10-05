@@ -133,7 +133,7 @@ Software Engineer specializing in **Full-Stack Development**, **AI/ML Engineerin
 </p>
 
     </td>
-<td width="50%" valign="top">
+<!-- <td width="50%" valign="top"> -->
 
 ### 🤖 AI/ML & Agent Frameworks
 <p align="center">
@@ -149,7 +149,7 @@ Software Engineer specializing in **Full-Stack Development**, **AI/ML Engineerin
 </tr>
 
 <tr>
-<td width="50%" valign="top">
+<!-- <td width="50%" valign="top"> -->
 
 ### 📊 Data Science & Analytics
 <p align="center">
