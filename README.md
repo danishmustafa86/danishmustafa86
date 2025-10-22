@@ -71,8 +71,8 @@ Software Engineer specializing in **Full-Stack Development**, **AI/ML Engineerin
 - **Advent of Code 2024** | [50 Stars ⭐](https://github.com/HassanMehmood413/Advent-Of-Code-2024-Competition)
   - Completed all 25 days of challenging programming puzzles
   
-- **Meta Hacker Cup 2024** | Participant
-  - Collaborated with international engineers on complex algorithmic challenges
+- **Meta Hacker Cup 2024/2025** | Participant
+  - Collaborated with international engineers on complex algorithmic challenges. In 2025 successfully participated upto Round 2.
   
 - **MIT Winter Contest 2025** | [Team Member](https://github.com/danishmustafa86/MIT-Winter-Contest-2025)
   - Solved advanced problems with a dedicated engineering team
