@@ -1,4 +1,4 @@
-# Danish Mustafa | Software Engineer & Tech Eduator
+# Danish Mustafa | Software Engineer & Tech Educator
 
 <p align="center">
   <a href="https://danishmustafa86.vercel.app/">
