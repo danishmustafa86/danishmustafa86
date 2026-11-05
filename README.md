@@ -45,9 +45,9 @@ I enjoy turning ideas into real products—from designing the architecture and w
 
 ### 🔗 Explore My Journey
 
-* 🌐 **Portfolio:** [danishmustafa86.vercel.app](https://danishmustafa.com/)
-* 💼 **LinkedIn:** [Danish Mustafa](https://www.linkedin.com/in/danishmustafa86)
-* 💻 **GitHub:** [@danishmustafa86](https://github.com/danishmustafa86)
+* 🌐 **Portfolio:** [danishmustafa.com](https://danishmustafa.com/)
+* 💼 **LinkedIn:** [danishmustafa86](https://www.linkedin.com/in/danishmustafa86)
+* 💻 **GitHub:** [danishmustafa86](https://github.com/danishmustafa86)
 * 🧠 **LeetCode:** [440+ Problems Solved](https://leetcode.com/u/danishmustafa86/)
 * 🚀 **LabLab.ai:** [Hackathon Profile & Projects](https://lablab.ai/u/@danishmustafa86)
 * 🎥 **YouTube:** [Training, Projects & Tech Content](https://www.youtube.com/@danishmustafa86)
